@@ -1,3 +1,0 @@
-Garton = "ziko"
-if Garton == "ziko":
-  print("Garton ziko")
